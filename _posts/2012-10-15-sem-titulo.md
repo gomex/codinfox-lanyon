@@ -3,7 +3,7 @@ layout: post
 title: Sem título 
 ---
 
-{% highlight js %}
+<p>
 As vezes tenho essa sensação
 Sinto de uma forma estranha a certeza que cada segundo é precioso
 Não perco tempo com o tempo, lanço para todos apenas coisas boas
@@ -24,4 +24,4 @@ Apenas expressar o que sinto nesse momento
 Pois a experiência é particular
 Eu apenas senti o interesse em externar isso
 Espero que de alguma forma isso lhe faça bem
-{% endhighlight %}
+</p>
